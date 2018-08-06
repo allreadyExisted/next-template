@@ -1,0 +1,12 @@
+:root {
+  --label-color: #fff;
+}
+
+.input {
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.label {
+  color: var(--label-color);
+}
