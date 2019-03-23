@@ -40,6 +40,6 @@
     "build": "next build && tsc --project tsconfig.server.json",
     "start": "env-cmd ./configs/.env.prod node .next/production-server/index.js"
   },
-  "author": "allreadyExisted",
+  "author": "alreadyExisted",
   "license": "ISC"
 }
